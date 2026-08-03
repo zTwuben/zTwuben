@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm **Twuben**
 
-### 🧟 Game Mod Developer • 🎨 Designer • 💻 Open Source Contributor
+### 💻 Developer • 🎨 Designer • 🧟 Project Zomboid Mod Creator
+
+*Creating immersive experiences through code, design, and creativity.*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=zTwuben&style=for-the-badge&color=7C3AED" />
@@ -15,37 +17,35 @@
 
 # 🚀 About Me
 
-I'm a developer and designer passionate about creating immersive experiences.
+I'm a developer and designer passionate about building immersive experiences through programming, game development, and visual design.
 
-My main focus is developing **Project Zomboid** mods, but I also enjoy contributing to open-source projects and continuously expanding my knowledge in software and game development.
+My primary focus is creating **Project Zomboid** mods and tools, while also contributing to open-source projects and continuously expanding my skills.
 
-* 🧟 Creating gameplay-focused Project Zomboid mods
-* 🎨 Designing interfaces, graphics, and game assets
-* 💻 Developing tools and gameplay systems
+* 🧟 Developing gameplay-focused Project Zomboid mods
+* 🎮 Creating game mechanics, tools, and systems
+* 🎨 Designing interfaces, graphics, and visual assets
 * 🌍 Contributing to open-source projects
-* 📚 Always learning something new
+* 📚 Always learning and improving
 
 ---
 
-# 💻 Languages & Technologies
+# 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,js,html,css,cpp" />
 </p>
 
-<p align="center">
-  <b>Currently learning:</b> C++
-</p>
+> **Currently learning:** C++
 
 ---
 
-# 🛠️ Tools
+# 🛠️ Tools & Software
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,git,godot,blender,ps"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,godot,blender,ps" />
 </p>
 
-Also experienced with
+**Also experienced with**
 
 * 🎮 Roblox Studio
 * 🎨 Adobe Creative Cloud
@@ -54,33 +54,33 @@ Also experienced with
 
 # 🎨 Creative Skills
 
-* Graphic Design
-* UI / UX Design
-* Pixel Art
-* 3D Modeling
-* Branding & Visual Identity
-* Game Design
-* Mod Development
+* 🧩 UI / UX Design
+* 🎨 Graphic Design
+* 🖌️ Pixel Art
+* 🏗️ 3D Modeling
+* 🎮 Game Design
+* 🧟 Mod Development
+* 🏷️ Branding & Visual Identity
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 Infirmities
+## 🧠 Infirmities
 
-A Project Zomboid overhaul introducing realistic physical and psychological conditions that change how players survive the apocalypse.
+A Project Zomboid overhaul introducing realistic physical and psychological conditions that reshape how players survive the apocalypse.
 
-### 🚐 Vanvival
+## 🚐 Vanvival
 
 A nomadic survival experience where your vehicle becomes your home.
 
 ---
 
-# 🌍 Open Source Contributions
+# 🌍 Open Source
 
-### 📢 Notifier
+## 📢 Notifier
 
-Contributed the **Portuguese localization** for the **Notifier** project from the SCP Wiki.
+Contributed the **Portuguese localization** for the **Notifier** project from the SCP Wiki community.
 
 🔗 https://github.com/croque-scp/notifier
 
@@ -102,10 +102,11 @@ Contributed the **Portuguese localization** for the **Notifier** project from th
 
 ---
 
-📚 Currently Learning
-C++
-Software Engineering
-Advanced Game Development
+# 📚 Currently Learning
+
+* ⚙️ C++
+* 🏗️ Software Engineering
+* 🎮 Advanced Game Development
 
 ---
 
@@ -113,7 +114,7 @@ Advanced Game Development
 
 ### ⭐ Thanks for stopping by!
 
-If you enjoy my work, consider leaving a ⭐ on a repository or contributing to one of my projects.
+Feel free to explore my repositories, open an issue, or contribute to any of my projects.
 
 **Design. Develop. Create.**
 
