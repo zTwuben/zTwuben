@@ -30,7 +30,7 @@ My main focus is developing **Project Zomboid** mods, but I also enjoy contribut
 # 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,js,html,css,cpp" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,js,html,css" />
 </p>
 
 <p align="center">
@@ -42,18 +42,25 @@ My main focus is developing **Project Zomboid** mods, but I also enjoy contribut
 # 🛠️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,git,godot,blender" /> </p>
+<img src="https://skillicons.dev/icons?i=visualstudio,git,godot,blender,ps"/>
 </p>
+
+Also experienced with
+
+* 🎮 Roblox Studio
+* 🎨 Adobe Creative Cloud
 
 ---
 
 # 🎨 Creative Skills
 
-* 🎮 Game Design
-* 🧟 Project Zomboid Mod Development
-* 🎨 Graphic Design
-* 🖌️ Pixel Art
-* 🧩 UI / UX Design
+* Graphic Design
+* UI / UX Design
+* Pixel Art
+* 3D Modeling
+* Branding & Visual Identity
+* Game Design
+* Mod Development
 
 ---
 
@@ -95,22 +102,18 @@ Contributed the **Portuguese localization** for the **Notifier** project from th
 
 ---
 
-# 🎯 Current Focus
-
-* 🧠 Expanding **Infirmities**
-* 🚐 Improving **Vanvival**
-* 🎨 Creating polished gameplay experiences
-* 💻 Improving my C++ and software engineering skills
-* 🌍 Contributing to open-source projects
+📚 Currently Learning
+C++
+Software Engineering
+Advanced Game Development
 
 ---
 
-# ⚡ Fun Facts
+📊 GitHub Stats
 
-* 🧟 Most of my projects revolve around Project Zomboid.
-* 🎨 I enjoy combining programming and design.
-* 🌍 I like contributing to community-driven projects.
-* 💡 Every project is an opportunity to learn something new.
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=zTwuben&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTwuben&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=zTwuben&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
