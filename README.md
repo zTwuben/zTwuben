@@ -90,10 +90,6 @@ Contributed the **Portuguese localization** for the **Notifier** project from th
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zTwuben&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=zTwuben&theme=tokyonight&hide_border=true"/>
 
 </div>
